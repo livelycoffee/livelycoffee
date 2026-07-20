@@ -23,8 +23,8 @@
 <br>
 
 - 🔭 Currently working on **AI** and **Aerospace** related projects  
-- 🌱 Learning **low level** dev along with **Rust**  
-- 📫 Reach me at livelycoffee18@gmail.com
+- 🌱 Learning **low level** programming along with **Rust**  
+- 📫 Reach me at livelycoffee18@gmail.com or on LinkedIn
 
 <br>
 
