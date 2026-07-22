@@ -68,6 +68,12 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/livelycoffee/livelycoffee/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/livelycoffee/livelycoffee/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <br>
+</div>
+
+<div align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=livelycoffee&icon=0&color=orange"/>
