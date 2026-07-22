@@ -41,9 +41,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,raspberrypi,linux,arduino,discord,arch"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,raspberrypi,linux,arduino,discord,arch,docker,notion"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=java,c,python"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,rust"/>
 </div>
 
 <br>
@@ -54,12 +54,24 @@
   GitHub Stats
 </h2>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=livelycoffee&theme=tokyonight&hide_border=true&exclude_days=Sun)"></img>
+  <!img src="https://github-readme-streak-stats.herokuapp.com?user=livelycoffee&theme=tokyonight&hide_border=true&exclude_days=Sun)"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=livelycoffee&theme=dark&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api?username=livelycoffee&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <!br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=livelycoffee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <br>
 
 ---
+
+<div align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=livelycoffee&icon=0&color=orange"/>
+</div>
 
 <!--
 **livelycoffee/livelycoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
