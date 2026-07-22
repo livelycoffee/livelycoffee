@@ -34,13 +34,13 @@
 
 <br>
 
-<h2 align="center">
+<h2>
   <img src="https://cdn.simpleicons.org/python/FFFFFF#gh-dark-mode-only" width="24"/>
   &nbsp;
   Toolbox
 </h2>
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=vscode,github,raspberrypi,linux,arduino,discord,arch,docker,notion"/>
   <br>
   <img src="https://skillicons.dev/icons?i=java,c,python,rust"/>
